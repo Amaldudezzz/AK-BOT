@@ -49,8 +49,8 @@ Run the Bot WhatsApp
 * [```Nayla Chan```](https://github.com/naylachan/)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 
-## Group
-* <a href="https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## Contact
+* <a href="https://Wa.Me/+919400467929"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Donate
 * <a href="https://ko-fi.com/amalrockz"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
