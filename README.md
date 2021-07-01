@@ -20,7 +20,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/Amaldudezzz/AK-BOT.git
-> cd Bot-Whatsapp
+> cd AK-BOT
 ```
 
 Install the dependencies:
