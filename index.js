@@ -1,13 +1,13 @@
 //Ambil script yang di YouTube gua kalau mau yang bisa di recode
 //Take the script on my YouTube if you want the obfuscated one
-//My YouTube Channel => Amal Rockz OFC
+//My YouTube Channel => AK GOOGLE TIPS
 
 /*
   **** INFO SCRIPT ****
   ** Author : Nayla
   ** Recode : Amal Rockz
   ** Don't delete the author's name and my name
-  ** For new updates please visit my YouTube Channel ZEEONE OFC
+  ** For new updates please visit my YouTube Channel  
   **
   **** THANKS TO ****
   ** NAYLA CHAN
