@@ -8,8 +8,8 @@
 <a href="https://github.com/Amaldudezzz"><img title="Author" <img src="https://i.ibb.co/q1YXgzT/AK-Userbot.jpg" alt="AK-Userbot" border="0"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofc/Bot-Whatsapp/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Bot-Whatsapp?color=red&style=flat-square"></a>
+<a href="https://github.com/amaldudezzz/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=blue&style=flat-square"></a>
+<a href="https://github.com//Bot-Whatsapp/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofc/Bot-Whatsapp?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Bot-Whatsapp/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofc/Bot-Whatsapp?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeoneofc/Bot-Whatsapp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofc/Bot-Whatsapp?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
