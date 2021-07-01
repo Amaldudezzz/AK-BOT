@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://l.top4top.io/p_19851eqgt1.jpg" width="128" height="128"/>
+<img src="https://ibb.co/QmvzHZy" width="128" height="128"/>
 </p>
 <p align="center">
 <a href="#"><img title="Bot-Whatsapp" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -53,5 +53,5 @@ Run the Bot WhatsApp
 * <a href="https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ### Donate
-* <a href="https://saweria.co/donate/zeeoneofc"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+* <a href="https://ko-fi.com/amalrockz"><img alt="Saweria" src="https://img.shields.io/badge/Saweria-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 
