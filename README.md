@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://ibb.co/QmvzHZy" width="128" height="128"/>
+<<img src="https://i.ibb.co/q1YXgzT/AK-Userbot.jpg" alt="AK-Userbot" border="0">/>
 </p>
 <p align="center">
 <a href="#"><img title="Bot-Whatsapp" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Amaldudezzz"><img title="Author" src="https://ibb.co/QmvzHZy"></a>
+<a href="https://github.com/Amaldudezzz"><img title="Author" <img src="https://i.ibb.co/q1YXgzT/AK-Userbot.jpg" alt="AK-Userbot" border="0"></a>
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=blue&style=flat-square"></a>
